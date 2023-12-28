@@ -125,7 +125,6 @@
     <addaction name="actionOpen_another_client"/>
     <addaction name="actionClose_this_client"/>
     <addaction name="separator"/>
-    <addaction name="actionAdministration"/>
    </widget>
    <addaction name="menuMain_menu"/>
   </widget>
@@ -144,11 +143,6 @@
    </property>
    <property name="font">
     <font/>
-   </property>
-  </action>
-  <action name="actionAdministration">
-   <property name="text">
-    <string>Administration</string>
    </property>
   </action>
  </widget>

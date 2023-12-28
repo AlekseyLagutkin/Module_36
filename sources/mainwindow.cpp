@@ -163,9 +163,3 @@ void MainWindow::updateChats()
 
 }
 
-
-void MainWindow::on_actionAdministration_triggered()
-{
-
-}
-

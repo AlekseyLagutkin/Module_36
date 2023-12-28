@@ -31,8 +31,6 @@ private slots:
     void on_actionClose_this_client_triggered();
     void updateChats();
 
-    void on_actionAdministration_triggered();
-
 private:
     Ui::MainWindow *ui;
     std::shared_ptr<Database> m_dbPtr;
